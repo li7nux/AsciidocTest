@@ -2,7 +2,7 @@
 Chai;
 v{0.0}
 :numbered:
-:toc:
+:toc: left
 :toclevels: 3
 :imagesdir: ./images
 
