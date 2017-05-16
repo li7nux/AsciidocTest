@@ -1,0 +1,9 @@
+= Asciidoc Test Repo
+Chai;
+v{0.0}
+:numbered:
+:toc:
+:toclevels: 3
+:imagesdir: ./images
+
+include::introduction.adoc[]
